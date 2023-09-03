@@ -8,8 +8,25 @@
 <p>
   You can contact me on my <a href="mailto:prathameshsahasrabuddhe@gmail.com">email</a>
 </p>
+
+## Tools and technologies
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,spring,django,flask,mysql,git,github,vscode,idea,firebase" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,flask" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
   </a>
 </p>
